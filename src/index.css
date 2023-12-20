@@ -39,11 +39,14 @@ main h2 {
 
 #examples {
   margin: 3rem auto;
+  
 }
 
 #examples h2 {
   text-align: left;
+  
 }
+
 
 #examples menu {
   margin: 1rem 0;
